@@ -9,10 +9,10 @@ The proposed code uses the scikit-learn pipeline to connect classes for data pre
 - Classes for preprocessing and transformation can be commented out to be excluded from the model.
 - There are two empty lists for named entity removal and stop word removal. Both can be customized to remove additional words from the corpus.
 - All coherence scores and hyperparameter values are listed by GridSearch and can be saved as csv. The model having returned the best coherence score can be identified by sorting the list of values for an evaluation metric.
-![image](https://user-images.githubusercontent.com/77205454/126349437-8c729918-c345-4f62-ac67-9448d4a336ba.png)
+![image](https://user-images.githubusercontent.com/77205454/126349437-8c729918-c345-4f62-ac67-9448d4a336ba.png | width=400px)
 (Image 1: Conception of opimization scheme)
 
-![image style="max-width: 450px;"](https://user-images.githubusercontent.com/77205454/126347577-f20ad3a5-4075-4266-9782-7947baf3e03f.png)
+![image](https://user-images.githubusercontent.com/77205454/126347577-f20ad3a5-4075-4266-9782-7947baf3e03f.png | width=400px)
 (Image 2: Optimization scheme for LDA in Python)
 
 ### How to eyeball the results?
