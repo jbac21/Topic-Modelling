@@ -12,7 +12,7 @@ The proposed code uses the scikit-learn pipeline to connect classes for data pre
 ![image](https://user-images.githubusercontent.com/77205454/126349437-8c729918-c345-4f62-ac67-9448d4a336ba.png)
 (Image 1: Conception of opimization scheme)
 
-![image](https://user-images.githubusercontent.com/77205454/126347577-f20ad3a5-4075-4266-9782-7947baf3e03f.png)
+![image style="max-width: 450px;"](https://user-images.githubusercontent.com/77205454/126347577-f20ad3a5-4075-4266-9782-7947baf3e03f.png)
 (Image 2: Optimization scheme for LDA in Python)
 
 ### How to eyeball the results?
